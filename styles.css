@@ -117,10 +117,12 @@ body {
     color: white;
     background-color: hsl(245, 75%, 52%);
     border-radius: 10px;
+    cursor: pointer;
 }
 .cancel {
     font-size: 12px;
     color:hsl(224, 23%, 55%);
     font-weight: 900;
+    cursor: pointer;
 
 }
